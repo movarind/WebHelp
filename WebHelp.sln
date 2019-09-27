@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebHelp", "..\..\..\Documents\WordToHelp\Project1\WebHelp\", "{858B19BB-1A2E-42AD-B395-50B085FD54A7}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_56800"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Documents\WordToHelp\Project1\WebHelp\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56800\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_56800"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\Documents\WordToHelp\Project1\WebHelp\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56800\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "56800"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{858B19BB-1A2E-42AD-B395-50B085FD54A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{858B19BB-1A2E-42AD-B395-50B085FD54A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {468F28DD-1F10-4C89-A135-8AE6E2A6A554}
+	EndGlobalSection
+EndGlobal
